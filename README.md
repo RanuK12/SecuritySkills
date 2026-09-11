@@ -30,6 +30,17 @@
 
 </div>
 
+## Instalación en 1 comando
+
+Para instalar esta skill y usarla inmediatamente, ejecuta:
+
+```bash
+npx skills add mukul975/Anthropic-Cybersecurity-Skills
+```
+
+Esto instalará la biblioteca de habilidades y la hará disponible para Claude Code y Cursor.
+
+
 ---
 
 > ⚠️ **Community Project** — This is an independent, community-created project. Not affiliated with Anthropic PBC.
