@@ -14,3 +14,7 @@ Thumbs.db
 launch/
 extract_attack.py
 AUDIT_REPORT.md
+*.pyc
+.aider*
+.coverage
+.pytest_cache/
